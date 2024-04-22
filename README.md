@@ -11,15 +11,15 @@ Sign and run a payment transaction.
 Inspect the transaction in Ganache.
 
 
-![Example Image](screenshot (61).png)
+![Example Image](Screenshot (61).png)
 
-![Example Image](screenshot (61).png)
+![Example Image](Screenshot (62).png)
 
-![Example Image](screenshot (61).png)
+![Example Image](Screenshot (63).png)
 
-![Example Image](screenshot (61).png)
+![Example Image](Screenshot (64).png)
 
-![Example Image](screenshot (61).png)
+![Example Image](Screenshot (65).png)
 
-![Example Image](screenshot (61).png)
+![Example Image](Screenshot (66).png)
 
