@@ -11,15 +11,15 @@ Sign and run a payment transaction.
 Inspect the transaction in Ganache.
 
 
-![Example Image](Screenshot (61).png)
+![Example Image](ethbalance.png)
 
-![Example Image](Screenshot (62).png)
+![Example Image](ganacheblock.png)
 
-![Example Image](Screenshot (63).png)
+![Example Image](lane.png)
 
-![Example Image](Screenshot (64).png)
+![Example Image](transactionganache.png)
 
-![Example Image](Screenshot (65).png)
+![Example Image](txhash.png)
 
-![Example Image](Screenshot (66).png)
+![Example Image](validatedhash.png)
 
